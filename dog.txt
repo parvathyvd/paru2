@@ -15,10 +15,3 @@ de.hybris.platform.ycommercewebservices.validator.ProductDataValidator
 de.hybris.platform.ycommercewebservices.validator.ReviewDataValidator 
 de.hybris.platform.ycommercewebservices.validator.ReviewDTOValidator 
 de.hybris.platform.ycommercewebservices.xstream.JsonXStreamFactory 
-de.hybris.platform.ycommercewebservices.xstream.JsonXStreamMarshallerFactory 
-de.hybris.platform.ycommercewebservices.xstream.XmlXStreamFactory 
-de.hybris.platform.ycommercewebservices.xstream.XmlXStreamMarshallerFactory 
-de.hybris.smartedit.controllers.ConfigurationController 
-de.hybris.smartedit.controllers.LoginSmartEditController 
-de.hybris.smartedit.controllers.RootController 
-de.hybris.smartedit.ssl.SSLValidationManager 
