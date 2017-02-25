@@ -15,3 +15,4 @@ de.hybris.platform.ycommercewebservices.validator.ProductDataValidator
 de.hybris.platform.ycommercewebservices.validator.ReviewDataValidator 
 de.hybris.platform.ycommercewebservices.validator.ReviewDTOValidator 
 de.hybris.platform.ycommercewebservices.xstream.JsonXStreamFactory 
+Paru change.
